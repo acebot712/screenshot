@@ -2,8 +2,6 @@
 
 A landing page template.
 
-* [Getting started](#getting-started)
-
 ## Getting started
 * Download https://github.com/acebot712/screenshot/archive/refs/heads/main.zip
 * Double click the `screenshot-main.zip` file in `~/Downloads/` folder to extract it.
